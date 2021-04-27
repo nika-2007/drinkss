@@ -1,0 +1,7 @@
+﻿  Alcohol_drink.cpp
+  Drinkks.cpp
+C:\Users\nikas\OneDrive\Desktop\Drinkks - Copy\Drinkks.cpp(30,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikas\OneDrive\Desktop\Drinkks - Copy\Drinkks.cpp(31,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikas\OneDrive\Desktop\Drinkks - Copy\Drinkks.cpp(41,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Drinkks.vcxproj -> C:\Users\nikas\OneDrive\Desktop\Drinkks - Copy\Debug\Drinkks.exe

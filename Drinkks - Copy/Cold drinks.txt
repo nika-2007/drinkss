@@ -1,0 +1,10 @@
+name1 53 company1 country1 type1  120 0
+ing1 ing2 ing3
+name2 32 company2 country2 type2  250 1
+ing4 ing5 ing6
+name3 12 company3 country3 type3  43 0
+ing7 ing8 ing9
+name4 63 company4 country4 type4  95 1
+ing10 ing11 ing12
+name5 43 company5 country5 type5  15 0
+ing13 ing14 ing15
